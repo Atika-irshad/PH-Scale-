@@ -1,0 +1,64 @@
+*{
+    background-color: rgb(148, 147, 147);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:left ;
+    margin:0;  
+    padding: 10px; 
+
+}
+h1{
+    color: rgb(81, 79, 79);
+    background-color: rgb(188, 187, 187);
+    
+}
+p{
+    color: aliceblue;
+}
+
+#para1{
+    background-color: rgb(19, 114, 192);
+    /* margin: 0;
+    padding: 0; */
+} 
+#para2{
+    background-color: rgb(25, 124, 200);
+}
+#para3{
+    background-color: rgb(50, 138, 222);
+}
+#para4{
+    background-color: rgb(78, 147, 221);
+}
+#para5{
+    background-color: rgb(80, 155, 228);
+}
+#para6{
+    background-color: rgb(94, 166, 230);
+}
+#para7{
+    background-color: rgb(126, 179, 225);
+}
+#para8{
+    background-color: rgb(44, 176, 136);
+}
+#para9{
+background-color: rgb(237, 168, 191)
+}
+#para10{
+    background-color: rgb(230, 157, 181)
+}
+#para11{
+    background-color: rgb(220, 144, 168);
+}
+#para12{
+    background-color: rgb(210, 130, 159);
+}
+#para13{
+    background-color: rgb(214, 122, 153);
+}
+#para14{
+    background-color: rgb(215, 104, 142);
+}
+#para15{
+    background-color: rgb(227, 80, 129);
+}
